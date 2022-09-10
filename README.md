@@ -1,2 +1,2 @@
-# Simvue demonstration server
+# Simvue server
 
